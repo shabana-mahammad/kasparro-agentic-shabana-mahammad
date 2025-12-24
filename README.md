@@ -6,11 +6,12 @@ A modular multi-agent system that converts structured product data into **machin
 python main.py
 
 ## Outputs
-  Generated in the outputs/ folder:
-    faq.json
-    product_page.json
-    comparison_page.json
+Generated in the `outputs/` folder:
+- `faq.json`
+- `product_page.json`
+- `comparison_page.json`
 
 ## Documentation
   System design details:
+```bash
     docs/projectdocumentation.md
