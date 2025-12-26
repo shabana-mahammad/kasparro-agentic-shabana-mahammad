@@ -17,3 +17,4 @@ Generated in the outputs folder:
 ## Documentation
 
 - docs/projectdocumentation.md
+- ARCHITECTURE.md
